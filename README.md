@@ -73,6 +73,3 @@ The Deep Learning model learns scoring patterns from historical IPL matches and 
 - Advanced Deep Learning architectures
 - Improved feature engineering
 
----
-
-Computer Engineering Student | Machine Learning Enthusiast | Backend Developer
